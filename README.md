@@ -80,7 +80,7 @@ Here are some ideas to get you started:
  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages:</h2>
 
 <p align="left"><p align="center">
   <a href="https://skillicons.dev">
