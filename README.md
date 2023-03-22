@@ -100,7 +100,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,nodejs,php,wordpress,laravel,postgres" />
+    <img src="https://skillicons.dev/icons?i=dotnet,nodejs,php,wordpress,laravel" />
   </a>
 </p> 
 
@@ -109,7 +109,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,django" />
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,django" />
   </a>
 </p> 
 
