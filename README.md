@@ -82,11 +82,23 @@ Here are some ideas to get you started:
 
 <h2 align="left">Languages:</h2>
 
-<p align="left"><p align="center">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
-</p></p>
+</p> 
+
+<h2 align="left">Frontend:</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p> 
+
+
+
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yahya-alqanoa&show_icons=true&locale=en&layout=compact" alt="yahya-alqanoa" /></p>
 </p>
