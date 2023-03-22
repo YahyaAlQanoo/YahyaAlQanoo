@@ -96,6 +96,32 @@ Here are some ideas to get you started:
   </a>
 </p> 
 
+<h2 align="left">Backend:</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p> 
+
+
+<h2 align="left">Database:</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p> 
+
+
+<h2 align="left">Tools:</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p> 
+
 
 
 
